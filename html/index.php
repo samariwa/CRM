@@ -228,7 +228,7 @@ include "nav.php";
                                          <div class="col mr-2">
                                             <div class="row"style="margin-left: 40px">
                                             <h1><i class="bx bxl-instagram text-danger" style="font-size: 60px;float: center;"></i></h1>
-                                            <p>instagram</p>
+                                            <p>Instagram</p>
                                             <p style="margin-left: 37px;margin-top: -15px;font-size: 12px">436 Feeds</p>
                                             </div>
                                     </div>
@@ -238,9 +238,24 @@ include "nav.php";
                             </div>
                         </div>
                         <div class="row" style="margin-right: -210px">
-                            <div class="col-xl-3 col-md-12 mb-4">
+                            <div class="col-xl-3 col-md-6 mb-4">
                             <div class="card border-left-primary shadow h-100 py-2">
-                                 <div class="card-body" style="height: 180px;">
+                                 <div class="card-body" style="height: 120px;">
+                                     <div class="row no-gutters align-items-center">
+                                         <div class="col mr-2">
+                                            <div class="row"style="margin-left: 40px">
+                                              <h1><i class="bx bxl-twitter text-info" style="font-size: 60px;float: center;"></i></h1>
+                                            <p>Twitter</p>
+                                            <p style="margin-left: 37px;margin-top: -15px;font-size: 12px">105 Feeds</p>
+                                            </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-xl-3 col-md-6 mb-4">
+                            <div class="card border-left-primary shadow h-100 py-2">
+                                 <div class="card-body" style="height: 120px;">
                                      <div class="row no-gutters align-items-center">
                                          <div class="col mr-2">
                                             <div class="row"style="margin-left: 40px">

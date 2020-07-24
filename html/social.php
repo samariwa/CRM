@@ -113,6 +113,29 @@ include "nav.php";
                             </div>
                         </div>
                     </div>
+                    <div class="col-4" >
+                        <div class="card">
+                            <div class="card-body">
+                                 <a href="#" style="color: inherit;">
+                                    <div class="row" style="margin-left: 120px;">
+                                         <h3>Twitter</h3>   
+                                    </div>
+                                     <div class="row">
+                                        <div class="col-md-4">
+                                        
+                                              <h1><i class="bx bxl-twitter text-info" style="font-size: 80px;margin-left: 10px;"></i></h1>
+                                        </div>
+                                        <div class="col-md-8" >
+                                              <b><i>199 Followers</i></b>
+                                               <p>Turn complaints into customer satisfaction and keep your clients updated through Tweets.</p>
+                                               <i style="margin-left: 70px;"><i class="fa fa-rss text-info"></i>&ensp;26 New Feeds</i>
+                                               <i style="margin-left: 70px;"><i class="fa fa-plus-circle text-info"></i>&ensp;6 New Followers</i>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <!-- ============================================================== -->
                 <!-- End PAge Content -->
