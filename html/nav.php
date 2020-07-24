@@ -180,13 +180,14 @@
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav">
                         <li> <a class="waves-effect waves-dark" href="index.php" aria-expanded="false"><i class="fa fa-home"></i><span class="hide-menu">Dashboard</span></a></li>
-                        <li> <a class="waves-effect waves-dark" href="#" aria-expanded="false"><i class="fa fa-address-book-o"></i><span class="hide-menu">Client Contacts</span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="contacts.php" aria-expanded="false"><i class="fa fa-address-book"></i><span class="hide-menu">Client Contacts</span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="call.php" aria-expanded="false"><i class="fa fa-phone"></i><span class="hide-menu">Call Center</span></a></li>
                         <li> <a class="waves-effect waves-dark" href="table-basic.php" aria-expanded="false"><i class="fa fa-table"></i><span class="hide-menu"></span>Tables</a></li>
                         <li> <a class="waves-effect waves-dark" href="icon-fontawesome.php" aria-expanded="false"><i class="fa fa-smile-o"></i><span class="hide-menu"></span>Icon</a></li>
                         <li> <a class="waves-effect waves-dark" href="analytics.php" aria-expanded="false"><i class="fa fa-bar-chart-o"></i><span class="hide-menu"></span>Analytics</a></li>
                         <li> <a class="waves-effect waves-dark" href="documents.php" aria-expanded="false"><i class="fa fa-folder"></i><span class="hide-menu"></span>Documents</a></li>
                         <li> <a class="waves-effect waves-dark" href="calendar.php" aria-expanded="false"><i class="fa fa-calendar"></i><span class="hide-menu"></span>Calendar</a></li>
-                        <li> <a class="waves-effect waves-dark" href="social.php" aria-expanded="false"><i class="fa fa-rss"></i><span class="hide-menu"></span>Social Feed</a></li>
+                        <li> <a class="waves-effect waves-dark" href="social.php" aria-expanded="false"><i class="fa fa-group"></i><span class="hide-menu"></span>Social Media</a></li>
                         <li> <a class="waves-effect waves-dark" href="pages-error-404.php" aria-expanded="false"><i class="fa fa-question-circle"></i><span class="hide-menu"></span>404</a></li>
                         <div class="text-center m-t-30">
                             <a href="#" class="btn waves-effect waves-light btn-success hidden-md-down"> Action</a>
